@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["F7996FZEK9.com.controlledfrenzy.Nocturn2"],
+        "components": [
+          { "/": "/nocturn/t/*", "comment": "Nocturn NFC tags (iOS background tag reading)" }
+        ]
+      }
+    ]
+  }
+}
